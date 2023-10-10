@@ -12,7 +12,7 @@
   </div>
   
   <div key="4">
-  <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
+  <h3 style ="font-size : 2em; font-weight:700;"></h3>
     <div ></div>
   </div>
   
